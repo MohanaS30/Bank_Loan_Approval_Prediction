@@ -54,3 +54,7 @@ The trained machine learning models are used to predict the loan approval status
 ## Source Code
 
 The complete project implementation is available in the Jupyter Notebook included in this repository.
+
+[View Jupyter Notebook](./BANK_LOAN_APPROVAL_PREDICTION.ipynb)
+
+[View Dataset](./Loan_Applicants_1000.xlsx)
